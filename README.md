@@ -44,5 +44,3 @@ Excel/CSV | Data handling |
 ## 🔗 Dataset Source
 [Kaggle – Netflix Movies & TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
-ice Babalola**  
-AI & Data Analytics | Higher Education | Nigeria  
